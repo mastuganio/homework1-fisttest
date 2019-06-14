@@ -6,6 +6,9 @@
 /target
 */target
 
+# Log
+/logs
+
 ### Maven ###
 pom.xml.tag
 pom.xml.versionsBackup
